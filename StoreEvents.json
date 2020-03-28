@@ -292,12 +292,12 @@
 	},
 	{
 		"abr": "trait",
-		"price": 3500,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removetrait",
-		"price": 5500,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -329,7 +329,27 @@
 		"abr": "hodlbotvote",
 		"price": 600,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "reviveall",
+		"price": 22664,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "reviveme",
+		"price": 2833,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healall",
+		"price": 17336,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healme",
+		"price": 2167,
+		"karmatype": "Good"
 	}
 	],
-	"total": 66
+	"total": 70
 }
