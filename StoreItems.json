@@ -134,13 +134,13 @@
 	},
 	{
 		"abr": "allosaurus",
-		"price": 4000,
+		"price": 3500,
 		"category": "Animal",
 		"defname": "Allosaurus"
 	},
 	{
 		"abr": "allosaurusegg(fert.)",
-		"price": 133,
+		"price": 2000,
 		"category": "Eggs (fert.)",
 		"defname": "EggAllosaurusFertilized"
 	},
@@ -4982,73 +4982,73 @@
 	},
 	{
 		"abr": "neurotrainer(animals)",
-		"price": 1250,
+		"price": 750,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Animals"
 	},
 	{
 		"abr": "neurotrainer(artistic)",
-		"price": 1250,
+		"price": 750,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Artistic"
 	},
 	{
 		"abr": "neurotrainer(construction)",
-		"price": 1250,
+		"price": 750,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Construction"
 	},
 	{
 		"abr": "neurotrainer(cooking)",
-		"price": 1250,
+		"price": 750,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Cooking"
 	},
 	{
 		"abr": "neurotrainer(crafting)",
-		"price": 1250,
+		"price": 750,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Crafting"
 	},
 	{
 		"abr": "neurotrainer(intellectual)",
-		"price": 1250,
+		"price": 750,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Intellectual"
 	},
 	{
 		"abr": "neurotrainer(medical)",
-		"price": 1250,
+		"price": 750,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Medicine"
 	},
 	{
 		"abr": "neurotrainer(melee)",
-		"price": 1250,
+		"price": 750,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Melee"
 	},
 	{
 		"abr": "neurotrainer(mining)",
-		"price": 1250,
+		"price": 750,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Mining"
 	},
 	{
 		"abr": "neurotrainer(plants)",
-		"price": 1250,
+		"price": 750,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Plants"
 	},
 	{
 		"abr": "neurotrainer(shooting)",
-		"price": 1250,
+		"price": 750,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Shooting"
 	},
 	{
 		"abr": "neurotrainer(social)",
-		"price": 1250,
+		"price": 750,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Social"
 	},
@@ -11267,7 +11267,85 @@
 		"price": 475,
 		"category": "SMG and PDW",
 		"defname": "RNGun_ZastavaM92_PDW"
+	},
+	{
+		"abr": "bioreactor",
+		"price": 617,
+		"category": "",
+		"defname": "BioReactor"
+	},
+	{
+		"abr": "bioreactor(3x3)",
+		"price": 1125,
+		"category": "",
+		"defname": "BioReactorCircleLarge"
+	},
+	{
+		"abr": "bioreactor(3x3)",
+		"price": 1125,
+		"category": "",
+		"defname": "BioReactorBig"
+	},
+	{
+		"abr": "bioreactor(4x4)",
+		"price": 1642,
+		"category": "",
+		"defname": "BioReactorCircleEX"
+	},
+	{
+		"abr": "bioreactor(4x4)",
+		"price": 1642,
+		"category": "",
+		"defname": "BioReactorEx"
+	},
+	{
+		"abr": "embrasure",
+		"price": 54,
+		"category": "",
+		"defname": "ED_Embrasure"
+	},
+	{
+		"abr": "asval",
+		"price": 467,
+		"category": "Assault rifle",
+		"defname": "RNGun_ASVAL"
+	},
+	{
+		"abr": "cleanerbasestation",
+		"price": 1917,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Cleaner"
+	},
+	{
+		"abr": "cleaningbot",
+		"price": 17,
+		"category": "Animal",
+		"defname": "AIRobot_Cleaner"
+	},
+	{
+		"abr": "cleaningbot(disabled)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "AIRobot_Cleaner_disabled"
+	},
+	{
+		"abr": "haulerbasestation",
+		"price": 2917,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Hauler"
+	},
+	{
+		"abr": "haulingbot",
+		"price": 17,
+		"category": "Animal",
+		"defname": "AIRobot_Hauler"
+	},
+	{
+		"abr": "haulingbot(disabled)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "AIRobot_Hauler_disabled"
 	}
 	],
-	"total": 1878
+	"total": 1891
 }
