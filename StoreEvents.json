@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 800,
+		"price": 2000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 2600,
+		"price": 5000,
 		"karmatype": "Bad"
 	},
 	{
@@ -137,7 +137,7 @@
 	},
 	{
 		"abr": "maninblack",
-		"price": 350,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
@@ -227,27 +227,27 @@
 	},
 	{
 		"abr": "raid",
-		"price": 1500,
+		"price": 3000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "dropraid",
-		"price": 1500,
+		"price": 5000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "sapperraid",
-		"price": 1500,
+		"price": 4500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "siegeraid",
-		"price": 2500,
+		"price": 5000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 2500,
+		"price": 7500,
 		"karmatype": "Bad"
 	},
 	{
@@ -277,12 +277,12 @@
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 1200,
+		"price": 3000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "pawn",
-		"price": 1500,
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
@@ -292,13 +292,13 @@
 	},
 	{
 		"abr": "trait",
-		"price": 500,
-		"karmatype": "Good"
+		"price": 1,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "removetrait",
-		"price": 500,
-		"karmatype": "Good"
+		"price": 1,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "genderswap",
@@ -332,12 +332,12 @@
 	},
 	{
 		"abr": "reviveall",
-		"price": 22664,
+		"price": 25000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "reviveme",
-		"price": 2833,
+		"price": 5000,
 		"karmatype": "Good"
 	},
 	{
@@ -346,10 +346,30 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "healme",
-		"price": 2167,
+		"abr": "healanypawn",
+		"price": 2000,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "healme",
+		"price": 2000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "surgery",
+		"price": 500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "passionshuffle",
+		"price": 2000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "replacetrait",
+		"price": 1,
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 70
+	"total": 74
 }
