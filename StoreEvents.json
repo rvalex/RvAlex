@@ -7,7 +7,7 @@
 	},
 	{
 		"abr": "tornados",
-		"price": 5000,
+		"price": 6000,
 		"karmatype": "Bad"
 	},
 	{
@@ -242,12 +242,12 @@
 	},
 	{
 		"abr": "siegeraid",
-		"price": 5000,
+		"price": 6000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 7500,
+		"price": 7000,
 		"karmatype": "Bad"
 	},
 	{
@@ -277,7 +277,7 @@
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 3000,
+		"price": 1200,
 		"karmatype": "Good"
 	},
 	{
@@ -293,12 +293,12 @@
 	{
 		"abr": "trait",
 		"price": 1,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "removetrait",
 		"price": 1,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "genderswap",
@@ -332,12 +332,12 @@
 	},
 	{
 		"abr": "reviveall",
-		"price": 25000,
+		"price": 22664,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "reviveme",
-		"price": 5000,
+		"price": 2833,
 		"karmatype": "Good"
 	},
 	{
@@ -352,7 +352,7 @@
 	},
 	{
 		"abr": "healme",
-		"price": 2000,
+		"price": 2167,
 		"karmatype": "Good"
 	},
 	{
